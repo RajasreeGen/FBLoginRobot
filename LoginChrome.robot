@@ -3,7 +3,7 @@ Library           Selenium2Library
 
 *** Variables ***
 ${URL}            http://www.facebook.com
-${BROWSER}        CHROME
+${BROWSER}        opera
 ${EMAIL}          rajasree3559@gmail.com
 ${PASS}           ps260665
 
