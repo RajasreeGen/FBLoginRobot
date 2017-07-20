@@ -4,8 +4,8 @@ Library           Selenium2Library
 *** Variables ***
 ${URL}            http://www.facebook.com
 ${BROWSER}        opera
-${EMAIL}          rajasree3559@gmail.com
-${PASS}           ps260665
+${EMAIL}          r@gmail.com
+${PASS}           *****
 
 *** Test Cases ***
 [TC-001]-Login to facebook using Chrome
